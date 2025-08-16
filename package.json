@@ -17,9 +17,9 @@
     "url": "https://github.com/MitchelMathias/logos_dev/issues"
   },
   "homepage": "https://github.com/MitchelMathias/logos_dev#readme",
-  "dependencies": {
+  "devDependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "nodemailer": "^7.0.3"
+    "nodemailer": "^7.0.5"
   }
 }
